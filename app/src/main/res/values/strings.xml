@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AlcoolOrGas</string>
+    <string name="txt_result">Resultado</string>
+    <string name="txt_alcool_price_example">Digite o preço do alcool. Ex: 1.66.</string>
+    <string name="txt_price_gas_value">Digite o preço da gasolina. Ex: 2.99.</string>
+    <string name="txt_subtitle">Saiba o melhor combustivel para abastecer o seu carro.</string>
+    <string name="btn_calculate">Calcular</string>
+</resources>
